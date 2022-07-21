@@ -1,0 +1,1 @@
+(http.request.method in {"GET" "PURGE" "POST" "PUT" "HEAD" "OPTIONS" "DELETE" "PATCH"})
