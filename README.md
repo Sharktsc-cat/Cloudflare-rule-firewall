@@ -5,6 +5,7 @@ VERY GOOD RULE
 
 rate limit setting 
 Requests (required)
-- 7 
+- 7
+
 Period (required)
 - 10 
