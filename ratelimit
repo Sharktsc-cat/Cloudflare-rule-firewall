@@ -1,0 +1,1 @@
+(http.request.uri.path contains "/") or (http.request.uri.path eq "/index.php")
