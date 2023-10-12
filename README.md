@@ -4,6 +4,7 @@ By SharkTSC @TSC SHOP \
 VERY GOOD RULE
 
 rate limit setting 
+
 Requests (required)
 - 7
 
